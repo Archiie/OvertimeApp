@@ -1,6 +1,7 @@
 # It's a Timesheet App tracking employees' overtime
 
-## Key requirement: The client needs documentation that salaried employees did or did not get overtime each week
+## Key requirement:
+The client needs documentation that salaried employees did or did not get overtime each week
 
 ## Models:
 - Post -> date:date rationale:text
